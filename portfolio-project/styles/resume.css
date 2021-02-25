@@ -1,0 +1,26 @@
+/*
+Author: Jake Donaldson
+Date:   1/26/21
+This stylesheet is used for a resume webpage
+ */
+
+body {
+    background-color: #cbd4d4 !important;
+    color: mintcream !important;
+}
+
+.container {
+    background-color: #3a4143 !important;
+}
+
+.navbar {
+    background-color: #3a4143 !important;
+}
+
+li {
+    font-family: "serif";
+}
+
+.sublist {
+    font-size: 12px;
+}

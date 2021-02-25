@@ -1,0 +1,30 @@
+.container {
+    background-color: whitesmoke !important;
+}
+
+footer {
+    background-color: #bce9e9 !important;
+}
+
+.jumbotron {
+    background: linear-gradient(-20deg, #c2b2f3, #bfcbfd, #c7fdf4, #fab2e4);
+    background-size: 400% 400%;
+    animation: gradient 30s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0%, 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.err {
+    display: none;
+    color: red;
+}
